@@ -1,0 +1,3 @@
+module com.szogibalu.examples {
+
+}

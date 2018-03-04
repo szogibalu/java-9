@@ -1,0 +1,1 @@
+java --module-path target/examples-1.0-SNAPSHOT.jar --module  com.szogibalu.examples/com.szogibalu.examples.Main
