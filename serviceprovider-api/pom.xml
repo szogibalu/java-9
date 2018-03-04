@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.szogibalu</groupId>
-    <artifactId>examples</artifactId>
+    <artifactId>serviceprovider-api</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
     <properties>
@@ -14,23 +14,6 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <jdk.version>1.9</jdk.version>
     </properties>
-    <dependencies>
-        <dependency>
-            <groupId>com.szogibalu</groupId>
-            <artifactId>serviceprovider-api</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-            <groupId>com.szogibalu</groupId>
-            <artifactId>examples2</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-            <groupId>com.szogibalu</groupId>
-            <artifactId>examples3</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
-    </dependencies>
     <build>
         <pluginManagement>
             <plugins>

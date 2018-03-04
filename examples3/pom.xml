@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.szogibalu</groupId>
-    <artifactId>examples</artifactId>
+    <artifactId>examples3</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
     <properties>
@@ -18,16 +18,6 @@
         <dependency>
             <groupId>com.szogibalu</groupId>
             <artifactId>serviceprovider-api</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-            <groupId>com.szogibalu</groupId>
-            <artifactId>examples2</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-            <groupId>com.szogibalu</groupId>
-            <artifactId>examples3</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
@@ -52,5 +42,6 @@
             </plugin>
         </plugins>
     </build>
+
 
 </project>

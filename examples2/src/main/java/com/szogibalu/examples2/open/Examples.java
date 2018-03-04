@@ -1,4 +1,4 @@
-package com.szogibalu.examples2;
+package com.szogibalu.examples2.open;
 
 public class Examples {
 
